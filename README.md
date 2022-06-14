@@ -26,7 +26,11 @@ https://www.kaggle.com/kmader/siim-medical-images
 
 ### CheXpert
 胸部X線画像のデータセット  
-https://stanfordmlgroup.github.io/competitions/chexpert/  
+https://stanfordmlgroup.github.io/competitions/chexpert/
+
+### NIH 胸部 X 線データセット
+胸部X線画像のデータセット  
+https://nihcc.app.box.com/v/ChestXray-NIHCC  
 
 ### DeepLesion
 CT画像のデータセット  
