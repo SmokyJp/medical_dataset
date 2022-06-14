@@ -32,6 +32,10 @@ https://stanfordmlgroup.github.io/competitions/chexpert/
 胸部X線画像のデータセット  
 https://nihcc.app.box.com/v/ChestXray-NIHCC  
 
+### MURA | Bone X-Ray Deep Learning Competition
+肘、指、前腕、手、上腕骨、肩、手首のX線データセット  
+https://stanfordmlgroup.github.io/competitions/mura/  
+
 ### DeepLesion
 CT画像のデータセット  
 https://www.nih.gov/news-events/news-releases/nih-clinical-center-releases-dataset-32000-ct-images  
@@ -47,10 +51,6 @@ https://wiki.cancerimagingarchive.net/display/Public/Pancreas-CT
 ### CHAOS
 腹部臓器（肝臓、腎臓、脾臓）のCTとMRIデータセット  
 https://chaos.grand-challenge.org/Data/  
-
-### MURA
-骨のX線画像のデータセット  
-https://stanfordmlgroup.github.io/competitions/mura/  
 
 ### IVDM3Seg
 脊椎下部のMRIデータセット  
