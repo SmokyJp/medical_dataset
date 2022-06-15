@@ -54,7 +54,7 @@ https://chaos.grand-challenge.org/Data/
 
 ### IVDM3Seg
 脊椎下部のMRIデータセット  
-https://ivdm3seg.weebly.com/data.html  
+https://ivdm3seg.weebly.com/data.html    
 
 ### fastMRI
 膝や脳のMRIデータセット  
