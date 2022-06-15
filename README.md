@@ -78,4 +78,4 @@ https://cataracts.grand-challenge.org/Data/
 
 ### UH原口研＠兵庫県立大学大学院 情報科学研究科 生体システム工学研究室
 ツール：医用画像データベース  
-https://bselab.org/wp/blog/2016/11/27/tool-medicalimaging/  
+https://bselab.org/wp/blog/2016/11/27/tool-medicalimaging/   
