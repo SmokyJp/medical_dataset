@@ -32,6 +32,14 @@ https://stanfordmlgroup.github.io/competitions/chexpert/
 胸部X線画像のデータセット  
 https://nihcc.app.box.com/v/ChestXray-NIHCC  
 
+### 日本放射線技術学会(JSRT)　画像部会
+標準ディジタル画像データベース［胸部腫瘤陰影像］【DICOM版】  
+http://imgcom.jsrt.or.jp/download/  
+
+### 日本放射線技術学会(JSRT)　画像部会
+MINIJSRT_DATABASE[研究用胸部Ｘ線画像]  
+http://imgcom.jsrt.or.jp/minijsrtdb/  
+
 ### MURA | Bone X-Ray Deep Learning Competition
 肘、指、前腕、手、上腕骨、肩、手首のX線データセット  
 https://stanfordmlgroup.github.io/competitions/mura/  
