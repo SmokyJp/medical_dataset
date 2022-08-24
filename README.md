@@ -14,7 +14,7 @@ https://docs.nightingalescience.org/
 医用画像版ImageNet。放射線画像(CT、MRI、超音波)を135万点収録。  
 データアクセスにはリクエストの承認が必要。  
 https://www.radimagenet.com/  
-転移学習用モデルが(keras用？)下記のURLで公開されている。  
+転移学習用モデルが(keras用)下記のURLで公開されている。  
 https://drive.google.com/drive/folders/1Es7cK1hv7zNHJoUW0tI0e6nLFVYTqPqK  
 検証プログラムが下記で公開されている。  
 https://github.com/BMEII-AI/RadImageNet  
