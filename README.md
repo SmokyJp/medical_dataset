@@ -11,13 +11,17 @@
 https://docs.nightingalescience.org/
 
 ### RadImageNet：Medical AI with Medical Images
-医用画像版ImageNet。放射線画像(CT、MRI、超音波)を135万点収録。  
+医用画像版ImageNet。放射線画像(CT、MRI、超音波)を135万点収録(55GB)。  
 データアクセスにはリクエストの承認が必要。  
 https://www.radimagenet.com/  
 転移学習用モデルが(keras用)下記のURLで公開されている。  
 https://drive.google.com/drive/folders/1Es7cK1hv7zNHJoUW0tI0e6nLFVYTqPqK  
 検証プログラムが下記で公開されている。  
 https://github.com/BMEII-AI/RadImageNet  
+
+### smart : SERVIER MEDICAL ART
+医学、バイオロジー、医療現場のイラストなどのフリー素材のサイト。全部で3000強（81.5MB）。  
+https://smart.servier.com/  
 
 ### Paper With Code / Datasets
 6000を超える機械学習用データセット  
