@@ -1,5 +1,9 @@
 ### ・機械学習や深層学習で利用できる医用画像データセットのリンクをまとめました（順不同、随時更新）。
 
+### LDM 100k Dataset
+拡散モデルを用いた方法で大量に生成された、10万枚に及ぶ脳のMRI画像のデータセット  
+https://academictorrents.com/details/63aeb864bbe2115ded0aa0d7d36334c026f0660b
+
 ### TCIA : Cancer Imaging Archive
 180種類に及ぶ、癌研究のための医用画像のオープンアクセスデータベース  
 https://www.cancerimagingarchive.net/collections/
