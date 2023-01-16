@@ -1,5 +1,9 @@
 ### ・機械学習や深層学習で利用できる医用画像データセットのリンクをまとめました（順不同、随時更新）。
 
+### ICU(Intensive Care Unit Patients)dataset
+ICU患者の大量のデータがテーブルデータで公開されている  
+https://vincentarelbundock.github.io/Rdatasets/datasets.html
+
 ### Digital Database for Screening Mammography(DDSM)
 乳がん診断のためのマンモグラフィーのデータセット  
 http://www.eng.usf.edu/cvprg/
@@ -93,6 +97,7 @@ https://stanfordmlgroup.github.io/competitions/chexpert/
 
 ### NIH 胸部 X 線データセット
 胸部X線画像のデータセット  
+3万人以上の胸部X線写真11万枚のデータセットを14のカテゴリーに分類している  
 https://nihcc.app.box.com/v/ChestXray-NIHCC  
 
 ### 日本放射線技術学会(JSRT)　画像部会
@@ -108,12 +113,12 @@ http://imgcom.jsrt.or.jp/minijsrtdb/
 https://stanfordmlgroup.github.io/competitions/mura/  
 
 ### DeepLesion
-CT画像のデータセット  
+4,400名の患者の32,000枚のCT画像の病変部位のデータつき大規模なデータセット  
 https://www.nih.gov/news-events/news-releases/nih-clinical-center-releases-dataset-32000-ct-images  
 
 ### Annotated lymph node CT data
 リンパ節の位置情報（アノテーション）がついた腹部造影CT画像のデータセット  
-https://arxiv.org/abs/2010.11929  
+https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=19726546
 
 ### Annotated pancreas CT data
 膵臓の位置情報（アノテーション）がついた腹部造影CT画像のデータセット  
