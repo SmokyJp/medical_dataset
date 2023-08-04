@@ -1,5 +1,12 @@
 ### ・機械学習や深層学習で利用できる医用画像データセットのリンクをまとめました（順不同、随時更新）。
 
+### VinDr-Mammo: A large-scale benchmark dataset for computer-aided diagnosis in full-field digital mammography
+https://vindr.ai/datasets/mammo  
+dcmファイル  
+BI-RADS分類（10000）  
+高濃度乳房（10000）  
+ROIの矩形アノテーション情報がある
+
 ### ICU(Intensive Care Unit Patients)dataset
 ICU患者の大量のデータがテーブルデータで公開されている  
 https://vincentarelbundock.github.io/Rdatasets/datasets.html
